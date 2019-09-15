@@ -1,0 +1,2552 @@
+{
+    "type": "FeatureCollection",
+    "features": 
+    [
+        {
+            "type": "Feature",
+            "properties": 
+            {
+                "ref": 0,
+                "x1": 12064571.0712,
+                "y1": 2417939.39547,
+                "x2": 12064614.7097,
+                "y2": 2417940.98256,
+                "angular_connectivity": 1.9984449,
+                "axial_line_ref": -1,
+                "connectivity": 2,
+                "segment_length": 43.667351,
+                "t1024_choice": 0,
+                "t1024_choice_seg": 107099.91,
+                "t1024_integration": 19.102762,
+                "t1024_integration_seg": 907.38184,
+                "t1024_node_count": 67,
+                "t1024_total_depth": 234.99219,
+                "t1024_total_depth_seg": 9852.2949,
+                "t1024_total_segment_length": 2989.9487
+            },
+            "geometry": 
+            {
+                "type": "LineString",
+                "coordinates": 
+                [
+                    [
+                        120.645710712,
+                        24.1793939547
+                    ],
+                    [
+                        120.646147097,
+                        24.1794098256
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": 
+            {
+                "ref": 1,
+                "x1": 12064548.5133,
+                "y1": 2418181.46641,
+                "x2": 12064552.352,
+                "y2": 2418110.74538,
+                "angular_connectivity": 4.0027328,
+                "axial_line_ref": -1,
+                "connectivity": 4,
+                "segment_length": 70.825134,
+                "t1024_choice": 7,
+                "t1024_choice_seg": 131646.78,
+                "t1024_integration": 25.90411,
+                "t1024_integration_seg": 1145.7114,
+                "t1024_node_count": 67,
+                "t1024_total_depth": 173.29297,
+                "t1024_total_depth_seg": 7802.8311,
+                "t1024_total_segment_length": 2989.9487
+            },
+            "geometry": 
+            {
+                "type": "LineString",
+                "coordinates": 
+                [
+                    [
+                        120.645485133,
+                        24.1818146641
+                    ],
+                    [
+                        120.64552352,
+                        24.1811074538
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": 
+            {
+                "ref": 2,
+                "x1": 12064554.9625,
+                "y1": 2418110.82868,
+                "x2": 12064556.532,
+                "y2": 2418071.66979,
+                "angular_connectivity": 4.0114298,
+                "axial_line_ref": -1,
+                "connectivity": 4,
+                "segment_length": 39.190331,
+                "t1024_choice": 27,
+                "t1024_choice_seg": 129487.98,
+                "t1024_integration": 26.143368,
+                "t1024_integration_seg": 1140.6357,
+                "t1024_node_count": 67,
+                "t1024_total_depth": 171.70703,
+                "t1024_total_depth_seg": 7837.5532,
+                "t1024_total_segment_length": 2989.9487
+            },
+            "geometry": 
+            {
+                "type": "LineString",
+                "coordinates": 
+                [
+                    [
+                        120.645549625,
+                        24.1811082868
+                    ],
+                    [
+                        120.64556532,
+                        24.1807166979
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": 
+            {
+                "ref": 3,
+                "x1": 12064633.8509,
+                "y1": 2418129.67935,
+                "x2": 12064639.5528,
+                "y2": 2418129.75646,
+                "angular_connectivity": 3.9951725,
+                "axial_line_ref": -1,
+                "connectivity": 4,
+                "segment_length": 5.7024212,
+                "t1024_choice": 1,
+                "t1024_choice_seg": 10709.585,
+                "t1024_integration": 24.235186,
+                "t1024_integration_seg": 1081.3621,
+                "t1024_node_count": 67,
+                "t1024_total_depth": 185.22656,
+                "t1024_total_depth_seg": 8267.1602,
+                "t1024_total_segment_length": 2989.9487
+            },
+            "geometry": 
+            {
+                "type": "LineString",
+                "coordinates": 
+                [
+                    [
+                        120.646338509,
+                        24.1812967935
+                    ],
+                    [
+                        120.646395528,
+                        24.1812975646
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": 
+            {
+                "ref": 4,
+                "x1": 12064574.0807,
+                "y1": 2417658.6505,
+                "x2": 12064609.7856,
+                "y2": 2417698.23819,
+                "angular_connectivity": 1.9899416,
+                "axial_line_ref": -1,
+                "connectivity": 2,
+                "segment_length": 53.310646,
+                "t1024_choice": 0,
+                "t1024_choice_seg": 124685.92,
+                "t1024_integration": 23.986809,
+                "t1024_integration_seg": 1088.0276,
+                "t1024_node_count": 67,
+                "t1024_total_depth": 187.14453,
+                "t1024_total_depth_seg": 8216.5137,
+                "t1024_total_segment_length": 2989.9487
+            },
+            "geometry": 
+            {
+                "type": "LineString",
+                "coordinates": 
+                [
+                    [
+                        120.645740807,
+                        24.176586505
+                    ],
+                    [
+                        120.646097856,
+                        24.1769823819
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": 
+            {
+                "ref": 5,
+                "x1": 12064521.0265,
+                "y1": 2417768.8687,
+                "x2": 12064564.2828,
+                "y2": 2417753.89177,
+                "angular_connectivity": 1.9919837,
+                "axial_line_ref": -1,
+                "connectivity": 2,
+                "segment_length": 45.775715,
+                "t1024_choice": 0,
+                "t1024_choice_seg": 108881.02,
+                "t1024_integration": 28.705917,
+                "t1024_integration_seg": 1331.1353,
+                "t1024_node_count": 67,
+                "t1024_total_depth": 156.37891,
+                "t1024_total_depth_seg": 6715.917,
+                "t1024_total_segment_length": 2989.9487
+            },
+            "geometry": 
+            {
+                "type": "LineString",
+                "coordinates": 
+                [
+                    [
+                        120.645210265,
+                        24.177688687
+                    ],
+                    [
+                        120.645642828,
+                        24.1775389177
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": 
+            {
+                "ref": 6,
+                "x1": 12064587.6271,
+                "y1": 2418168.74861,
+                "x2": 12064590.2939,
+                "y2": 2418111.3743,
+                "angular_connectivity": 2.0058613,
+                "axial_line_ref": -1,
+                "connectivity": 2,
+                "segment_length": 57.436253,
+                "t1024_choice": 0,
+                "t1024_choice_seg": 135052.17,
+                "t1024_integration": 24.819317,
+                "t1024_integration_seg": 1094.4392,
+                "t1024_node_count": 67,
+                "t1024_total_depth": 180.86719,
+                "t1024_total_depth_seg": 8168.3784,
+                "t1024_total_segment_length": 2989.9487
+            },
+            "geometry": 
+            {
+                "type": "LineString",
+                "coordinates": 
+                [
+                    [
+                        120.645876271,
+                        24.1816874861
+                    ],
+                    [
+                        120.645902939,
+                        24.181113743
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": 
+            {
+                "ref": 7,
+                "x1": 12064507.5535,
+                "y1": 2418177.68892,
+                "x2": 12064510.0157,
+                "y2": 2418109.59247,
+                "angular_connectivity": 1.9621632,
+                "axial_line_ref": -1,
+                "connectivity": 3,
+                "segment_length": 68.140945,
+                "t1024_choice": 542,
+                "t1024_choice_seg": 1082058.8,
+                "t1024_integration": 46.7985,
+                "t1024_integration_seg": 2171.019,
+                "t1024_node_count": 67,
+                "t1024_total_depth": 95.921875,
+                "t1024_total_depth_seg": 4117.7866,
+                "t1024_total_segment_length": 2989.9487
+            },
+            "geometry": 
+            {
+                "type": "LineString",
+                "coordinates": 
+                [
+                    [
+                        120.645075535,
+                        24.1817768892
+                    ],
+                    [
+                        120.645100157,
+                        24.1810959247
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": 
+            {
+                "ref": 8,
+                "x1": 12064510.0157,
+                "y1": 2418109.59247,
+                "x2": 12064511.9448,
+                "y2": 2418047.05436,
+                "angular_connectivity": 2.0071361,
+                "axial_line_ref": -1,
+                "connectivity": 4,
+                "segment_length": 62.567856,
+                "t1024_choice": 1014,
+                "t1024_choice_seg": 1922741.1,
+                "t1024_integration": 46.756611,
+                "t1024_integration_seg": 2169.4883,
+                "t1024_node_count": 67,
+                "t1024_total_depth": 96.007812,
+                "t1024_total_depth_seg": 4120.6919,
+                "t1024_total_segment_length": 2989.9487
+            },
+            "geometry": 
+            {
+                "type": "LineString",
+                "coordinates": 
+                [
+                    [
+                        120.645100157,
+                        24.1810959247
+                    ],
+                    [
+                        120.645119448,
+                        24.1804705436
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": 
+            {
+                "ref": 9,
+                "x1": 12064511.9448,
+                "y1": 2418047.05436,
+                "x2": 12064518.0391,
+                "y2": 2417882.1498,
+                "angular_connectivity": 2.0071044,
+                "axial_line_ref": -1,
+                "connectivity": 4,
+                "segment_length": 165.01714,
+                "t1024_choice": 1040,
+                "t1024_choice_seg": 2043558.5,
+                "t1024_integration": 46.745201,
+                "t1024_integration_seg": 2168.6792,
+                "t1024_node_count": 67,
+                "t1024_total_depth": 96.03125,
+                "t1024_total_depth_seg": 4122.2295,
+                "t1024_total_segment_length": 2989.9487
+            },
+            "geometry": 
+            {
+                "type": "LineString",
+                "coordinates": 
+                [
+                    [
+                        120.645119448,
+                        24.1804705436
+                    ],
+                    [
+                        120.645180391,
+                        24.178821498
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": 
+            {
+                "ref": 10,
+                "x1": 12064518.0391,
+                "y1": 2417882.1498,
+                "x2": 12064520.216,
+                "y2": 2417789.6698,
+                "angular_connectivity": 2.025754,
+                "axial_line_ref": -1,
+                "connectivity": 4,
+                "segment_length": 92.505615,
+                "t1024_choice": 988,
+                "t1024_choice_seg": 1746956.2,
+                "t1024_integration": 46.669266,
+                "t1024_integration_seg": 2163.1753,
+                "t1024_node_count": 67,
+                "t1024_total_depth": 96.1875,
+                "t1024_total_depth_seg": 4132.7178,
+                "t1024_total_segment_length": 2989.9487
+            },
+            "geometry": 
+            {
+                "type": "LineString",
+                "coordinates": 
+                [
+                    [
+                        120.645180391,
+                        24.178821498
+                    ],
+                    [
+                        120.64520216,
+                        24.177896698
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": 
+            {
+                "ref": 11,
+                "x1": 12064520.216,
+                "y1": 2417789.6698,
+                "x2": 12064521.0265,
+                "y2": 2417768.8687,
+                "angular_connectivity": 1.7863276,
+                "axial_line_ref": -1,
+                "connectivity": 4,
+                "segment_length": 20.816885,
+                "t1024_choice": 1196,
+                "t1024_choice_seg": 2069120.2,
+                "t1024_integration": 46.63139,
+                "t1024_integration_seg": 2159.802,
+                "t1024_node_count": 67,
+                "t1024_total_depth": 96.265625,
+                "t1024_total_depth_seg": 4139.1724,
+                "t1024_total_segment_length": 2989.9487
+            },
+            "geometry": 
+            {
+                "type": "LineString",
+                "coordinates": 
+                [
+                    [
+                        120.64520216,
+                        24.177896698
+                    ],
+                    [
+                        120.645210265,
+                        24.177688687
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": 
+            {
+                "ref": 12,
+                "x1": 12064521.0265,
+                "y1": 2417768.8687,
+                "x2": 12064522.2707,
+                "y2": 2417721.66601,
+                "angular_connectivity": 1.6724441,
+                "axial_line_ref": -1,
+                "connectivity": 4,
+                "segment_length": 47.219086,
+                "t1024_choice": 1127,
+                "t1024_choice_seg": 1878092.2,
+                "t1024_integration": 46.330593,
+                "t1024_integration_seg": 2143.2578,
+                "t1024_node_count": 67,
+                "t1024_total_depth": 96.890625,
+                "t1024_total_depth_seg": 4171.1235,
+                "t1024_total_segment_length": 2989.9487
+            },
+            "geometry": 
+            {
+                "type": "LineString",
+                "coordinates": 
+                [
+                    [
+                        120.645210265,
+                        24.177688687
+                    ],
+                    [
+                        120.645222707,
+                        24.1772166601
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": 
+            {
+                "ref": 13,
+                "x1": 12064522.2707,
+                "y1": 2417721.66601,
+                "x2": 12064523.6711,
+                "y2": 2417691.80739,
+                "angular_connectivity": 2.9728503,
+                "axial_line_ref": -1,
+                "connectivity": 4,
+                "segment_length": 29.891441,
+                "t1024_choice": 597,
+                "t1024_choice_seg": 859424.31,
+                "t1024_integration": 43.288658,
+                "t1024_integration_seg": 2016.7751,
+                "t1024_node_count": 67,
+                "t1024_total_depth": 103.69922,
+                "t1024_total_depth_seg": 4432.7168,
+                "t1024_total_segment_length": 2989.9487
+            },
+            "geometry": 
+            {
+                "type": "LineString",
+                "coordinates": 
+                [
+                    [
+                        120.645222707,
+                        24.1772166601
+                    ],
+                    [
+                        120.645236711,
+                        24.1769180739
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": 
+            {
+                "ref": 14,
+                "x1": 12064523.6711,
+                "y1": 2417691.80739,
+                "x2": 12064524.4465,
+                "y2": 2417679.6642,
+                "angular_connectivity": 0.75035095,
+                "axial_line_ref": -1,
+                "connectivity": 3,
+                "segment_length": 12.167921,
+                "t1024_choice": 520,
+                "t1024_choice_seg": 769406.62,
+                "t1024_integration": 43.776772,
+                "t1024_integration_seg": 2027.3427,
+                "t1024_node_count": 67,
+                "t1024_total_depth": 102.54297,
+                "t1024_total_depth_seg": 4409.6113,
+                "t1024_total_segment_length": 2989.9487
+            },
+            "geometry": 
+            {
+                "type": "LineString",
+                "coordinates": 
+                [
+                    [
+                        120.645236711,
+                        24.1769180739
+                    ],
+                    [
+                        120.645244465,
+                        24.176796642
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": 
+            {
+                "ref": 15,
+                "x1": 12064524.4465,
+                "y1": 2417679.6642,
+                "x2": 12064528.081,
+                "y2": 2417661.80224,
+                "angular_connectivity": 1.371784,
+                "axial_line_ref": -1,
+                "connectivity": 3,
+                "segment_length": 18.227978,
+                "t1024_choice": 450,
+                "t1024_choice_seg": 714401.06,
+                "t1024_integration": 42.330338,
+                "t1024_integration_seg": 1950.2164,
+                "t1024_node_count": 67,
+                "t1024_total_depth": 106.04688,
+                "t1024_total_depth_seg": 4584.001,
+                "t1024_total_segment_length": 2989.9487
+            },
+            "geometry": 
+            {
+                "type": "LineString",
+                "coordinates": 
+                [
+                    [
+                        120.645244465,
+                        24.176796642
+                    ],
+                    [
+                        120.64528081,
+                        24.1766180224
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": 
+            {
+                "ref": 16,
+                "x1": 12064528.081,
+                "y1": 2417661.80224,
+                "x2": 12064534.6497,
+                "y2": 2417636.08775,
+                "angular_connectivity": 0.88477987,
+                "axial_line_ref": -1,
+                "connectivity": 3,
+                "segment_length": 26.540211,
+                "t1024_choice": 109,
+                "t1024_choice_seg": 199980.12,
+                "t1024_integration": 42.530865,
+                "t1024_integration_seg": 1946.01,
+                "t1024_node_count": 67,
+                "t1024_total_depth": 105.54688,
+                "t1024_total_depth_seg": 4593.9092,
+                "t1024_total_segment_length": 2989.9487
+            },
+            "geometry": 
+            {
+                "type": "LineString",
+                "coordinates": 
+                [
+                    [
+                        120.64528081,
+                        24.1766180224
+                    ],
+                    [
+                        120.645346497,
+                        24.1763608775
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": 
+            {
+                "ref": 17,
+                "x1": 12064534.6497,
+                "y1": 2417636.08775,
+                "x2": 12064550.676,
+                "y2": 2417594.52849,
+                "angular_connectivity": 1.2203655,
+                "axial_line_ref": -1,
+                "connectivity": 2,
+                "segment_length": 44.542274,
+                "t1024_choice": 70,
+                "t1024_choice_seg": 137244.16,
+                "t1024_integration": 41.058414,
+                "t1024_integration_seg": 1874.8888,
+                "t1024_node_count": 67,
+                "t1024_total_depth": 109.33203,
+                "t1024_total_depth_seg": 4768.1724,
+                "t1024_total_segment_length": 2989.9487
+            },
+            "geometry": 
+            {
+                "type": "LineString",
+                "coordinates": 
+                [
+                    [
+                        120.645346497,
+                        24.1763608775
+                    ],
+                    [
+                        120.64550676,
+                        24.1759452849
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": 
+            {
+                "ref": 18,
+                "x1": 12064550.676,
+                "y1": 2417594.52849,
+                "x2": 12064575.8536,
+                "y2": 2417611.6151,
+                "angular_connectivity": 1.2431592,
+                "axial_line_ref": -1,
+                "connectivity": 2,
+                "segment_length": 30.428009,
+                "t1024_choice": 36,
+                "t1024_choice_seg": 85463.07,
+                "t1024_integration": 28.967131,
+                "t1024_integration_seg": 1286.2141,
+                "t1024_node_count": 67,
+                "t1024_total_depth": 154.96875,
+                "t1024_total_depth_seg": 6950.4702,
+                "t1024_total_segment_length": 2989.9487
+            },
+            "geometry": 
+            {
+                "type": "LineString",
+                "coordinates": 
+                [
+                    [
+                        120.64550676,
+                        24.1759452849
+                    ],
+                    [
+                        120.645758536,
+                        24.176116151
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": 
+            {
+                "ref": 19,
+                "x1": 12064575.8536,
+                "y1": 2417611.6151,
+                "x2": 12064601.3113,
+                "y2": 2417623.67762,
+                "angular_connectivity": 1.3238101,
+                "axial_line_ref": -1,
+                "connectivity": 3,
+                "segment_length": 28.170887,
+                "t1024_choice": 19,
+                "t1024_choice_seg": 60937.598,
+                "t1024_integration": 28.624405,
+                "t1024_integration_seg": 1268.3395,
+                "t1024_node_count": 67,
+                "t1024_total_depth": 156.82422,
+                "t1024_total_depth_seg": 7048.4233,
+                "t1024_total_segment_length": 2989.9487
+            },
+            "geometry": 
+            {
+                "type": "LineString",
+                "coordinates": 
+                [
+                    [
+                        120.645758536,
+                        24.176116151
+                    ],
+                    [
+                        120.646013113,
+                        24.1762367762
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": 
+            {
+                "ref": 20,
+                "x1": 12064644.3726,
+                "y1": 2417993.98911,
+                "x2": 12064646.8582,
+                "y2": 2417884.55631,
+                "angular_connectivity": 2.0100038,
+                "axial_line_ref": -1,
+                "connectivity": 4,
+                "segment_length": 109.46102,
+                "t1024_choice": 194,
+                "t1024_choice_seg": 461968.97,
+                "t1024_integration": 35.901901,
+                "t1024_integration_seg": 1665.7806,
+                "t1024_node_count": 67,
+                "t1024_total_depth": 125.03516,
+                "t1024_total_depth_seg": 5366.729,
+                "t1024_total_segment_length": 2989.9487
+            },
+            "geometry": 
+            {
+                "type": "LineString",
+                "coordinates": 
+                [
+                    [
+                        120.646443726,
+                        24.1799398911
+                    ],
+                    [
+                        120.646468582,
+                        24.1788455631
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": 
+            {
+                "ref": 21,
+                "x1": 12064643.065,
+                "y1": 2418051.55757,
+                "x2": 12064644.3726,
+                "y2": 2417993.98911,
+                "angular_connectivity": 2.0289137,
+                "axial_line_ref": -1,
+                "connectivity": 4,
+                "segment_length": 57.583309,
+                "t1024_choice": 206,
+                "t1024_choice_seg": 440370.62,
+                "t1024_integration": 35.897415,
+                "t1024_integration_seg": 1665.4647,
+                "t1024_node_count": 67,
+                "t1024_total_depth": 125.05078,
+                "t1024_total_depth_seg": 5367.7471,
+                "t1024_total_segment_length": 2989.9487
+            },
+            "geometry": 
+            {
+                "type": "LineString",
+                "coordinates": 
+                [
+                    [
+                        120.64643065,
+                        24.1805155757
+                    ],
+                    [
+                        120.646443726,
+                        24.1799398911
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": 
+            {
+                "ref": 22,
+                "x1": 12064642.3621,
+                "y1": 2418068.2448,
+                "x2": 12064643.065,
+                "y2": 2418051.55757,
+                "angular_connectivity": 1.1395204,
+                "axial_line_ref": -1,
+                "connectivity": 3,
+                "segment_length": 16.702026,
+                "t1024_choice": 302,
+                "t1024_choice_seg": 584378.38,
+                "t1024_integration": 35.875004,
+                "t1024_integration_seg": 1663.5779,
+                "t1024_node_count": 67,
+                "t1024_total_depth": 125.12891,
+                "t1024_total_depth_seg": 5373.8354,
+                "t1024_total_segment_length": 2989.9487
+            },
+            "geometry": 
+            {
+                "type": "LineString",
+                "coordinates": 
+                [
+                    [
+                        120.646423621,
+                        24.180682448
+                    ],
+                    [
+                        120.64643065,
+                        24.1805155757
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": 
+            {
+                "ref": 23,
+                "x1": 12064640.8405,
+                "y1": 2418074.47291,
+                "x2": 12064642.3621,
+                "y2": 2418068.2448,
+                "angular_connectivity": 1.1375618,
+                "axial_line_ref": -1,
+                "connectivity": 3,
+                "segment_length": 6.4112887,
+                "t1024_choice": 295,
+                "t1024_choice_seg": 573930.38,
+                "t1024_integration": 35.069241,
+                "t1024_integration_seg": 1609.3568,
+                "t1024_node_count": 67,
+                "t1024_total_depth": 128.00391,
+                "t1024_total_depth_seg": 5554.8857,
+                "t1024_total_segment_length": 2989.9487
+            },
+            "geometry": 
+            {
+                "type": "LineString",
+                "coordinates": 
+                [
+                    [
+                        120.646408405,
+                        24.1807447291
+                    ],
+                    [
+                        120.646423621,
+                        24.180682448
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": 
+            {
+                "ref": 24,
+                "x1": 12064639.9971,
+                "y1": 2418112.72284,
+                "x2": 12064640.8405,
+                "y2": 2418074.47291,
+                "angular_connectivity": 2.1443529,
+                "axial_line_ref": -1,
+                "connectivity": 4,
+                "segment_length": 38.259228,
+                "t1024_choice": 302,
+                "t1024_choice_seg": 470510.09,
+                "t1024_integration": 35.391087,
+                "t1024_integration_seg": 1612.1614,
+                "t1024_node_count": 67,
+                "t1024_total_depth": 126.83984,
+                "t1024_total_depth_seg": 5545.2222,
+                "t1024_total_segment_length": 2989.9487
+            },
+            "geometry": 
+            {
+                "type": "LineString",
+                "coordinates": 
+                [
+                    [
+                        120.646399971,
+                        24.1811272284
+                    ],
+                    [
+                        120.646408405,
+                        24.1807447291
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": 
+            {
+                "ref": 25,
+                "x1": 12064639.5528,
+                "y1": 2418129.75646,
+                "x2": 12064639.9971,
+                "y2": 2418112.72284,
+                "angular_connectivity": 1.9825701,
+                "axial_line_ref": -1,
+                "connectivity": 4,
+                "segment_length": 17.039413,
+                "t1024_choice": 264,
+                "t1024_choice_seg": 397637.53,
+                "t1024_integration": 35.444576,
+                "t1024_integration_seg": 1614.1802,
+                "t1024_node_count": 67,
+                "t1024_total_depth": 126.64844,
+                "t1024_total_depth_seg": 5538.2871,
+                "t1024_total_segment_length": 2989.9487
+            },
+            "geometry": 
+            {
+                "type": "LineString",
+                "coordinates": 
+                [
+                    [
+                        120.646395528,
+                        24.1812975646
+                    ],
+                    [
+                        120.646399971,
+                        24.1811272284
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": 
+            {
+                "ref": 26,
+                "x1": 12064548.5133,
+                "y1": 2418181.46641,
+                "x2": 12064632.2562,
+                "y2": 2418189.22172,
+                "angular_connectivity": 2.0612333,
+                "axial_line_ref": -1,
+                "connectivity": 4,
+                "segment_length": 84.101234,
+                "t1024_choice": 425,
+                "t1024_choice_seg": 738971.12,
+                "t1024_integration": 36.841087,
+                "t1024_integration_seg": 1660.9893,
+                "t1024_node_count": 67,
+                "t1024_total_depth": 121.84766,
+                "t1024_total_depth_seg": 5382.2104,
+                "t1024_total_segment_length": 2989.9487
+            },
+            "geometry": 
+            {
+                "type": "LineString",
+                "coordinates": 
+                [
+                    [
+                        120.645485133,
+                        24.1818146641
+                    ],
+                    [
+                        120.646322562,
+                        24.1818922172
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": 
+            {
+                "ref": 27,
+                "x1": 12064507.5535,
+                "y1": 2418177.68892,
+                "x2": 12064548.5133,
+                "y2": 2418181.46641,
+                "angular_connectivity": 1.9887296,
+                "axial_line_ref": -1,
+                "connectivity": 3,
+                "segment_length": 41.133621,
+                "t1024_choice": 485,
+                "t1024_choice_seg": 933575,
+                "t1024_integration": 36.82692,
+                "t1024_integration_seg": 1659.9653,
+                "t1024_node_count": 67,
+                "t1024_total_depth": 121.89453,
+                "t1024_total_depth_seg": 5385.5303,
+                "t1024_total_segment_length": 2989.9487
+            },
+            "geometry": 
+            {
+                "type": "LineString",
+                "coordinates": 
+                [
+                    [
+                        120.645075535,
+                        24.1817768892
+                    ],
+                    [
+                        120.645485133,
+                        24.1818146641
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": 
+            {
+                "ref": 28,
+                "x1": 12064632.2562,
+                "y1": 2418189.22172,
+                "x2": 12064633.8509,
+                "y2": 2418129.67935,
+                "angular_connectivity": 3.040427,
+                "axial_line_ref": -1,
+                "connectivity": 4,
+                "segment_length": 59.563721,
+                "t1024_choice": 60,
+                "t1024_choice_seg": 135303.98,
+                "t1024_integration": 27.99201,
+                "t1024_integration_seg": 1200.5317,
+                "t1024_node_count": 67,
+                "t1024_total_depth": 160.36719,
+                "t1024_total_depth_seg": 7446.5283,
+                "t1024_total_segment_length": 2989.9487
+            },
+            "geometry": 
+            {
+                "type": "LineString",
+                "coordinates": 
+                [
+                    [
+                        120.646322562,
+                        24.1818922172
+                    ],
+                    [
+                        120.646338509,
+                        24.1812967935
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": 
+            {
+                "ref": 29,
+                "x1": 12064510.0157,
+                "y1": 2418109.59247,
+                "x2": 12064552.352,
+                "y2": 2418110.74538,
+                "angular_connectivity": 3.0167871,
+                "axial_line_ref": -1,
+                "connectivity": 4,
+                "segment_length": 42.351994,
+                "t1024_choice": 414,
+                "t1024_choice_seg": 729205.56,
+                "t1024_integration": 38.969921,
+                "t1024_integration_seg": 1700.6243,
+                "t1024_node_count": 67,
+                "t1024_total_depth": 115.19141,
+                "t1024_total_depth_seg": 5256.772,
+                "t1024_total_segment_length": 2989.9487
+            },
+            "geometry": 
+            {
+                "type": "LineString",
+                "coordinates": 
+                [
+                    [
+                        120.645100157,
+                        24.1810959247
+                    ],
+                    [
+                        120.64552352,
+                        24.1811074538
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": 
+            {
+                "ref": 30,
+                "x1": 12064552.352,
+                "y1": 2418110.74538,
+                "x2": 12064554.9625,
+                "y2": 2418110.82868,
+                "angular_connectivity": 1.994043,
+                "axial_line_ref": -1,
+                "connectivity": 4,
+                "segment_length": 2.6118288,
+                "t1024_choice": 395,
+                "t1024_choice_seg": 732120.88,
+                "t1024_integration": 38.980495,
+                "t1024_integration_seg": 1701.3406,
+                "t1024_node_count": 67,
+                "t1024_total_depth": 115.16016,
+                "t1024_total_depth_seg": 5254.5586,
+                "t1024_total_segment_length": 2989.9487
+            },
+            "geometry": 
+            {
+                "type": "LineString",
+                "coordinates": 
+                [
+                    [
+                        120.64552352,
+                        24.1811074538
+                    ],
+                    [
+                        120.645549625,
+                        24.1811082868
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": 
+            {
+                "ref": 31,
+                "x1": 12064554.9625,
+                "y1": 2418110.82868,
+                "x2": 12064590.2939,
+                "y2": 2418111.3743,
+                "angular_connectivity": 2.0517485,
+                "axial_line_ref": -1,
+                "connectivity": 4,
+                "segment_length": 35.335613,
+                "t1024_choice": 297,
+                "t1024_choice_seg": 567997.12,
+                "t1024_integration": 38.906593,
+                "t1024_integration_seg": 1697.5421,
+                "t1024_node_count": 67,
+                "t1024_total_depth": 115.37891,
+                "t1024_total_depth_seg": 5266.3159,
+                "t1024_total_segment_length": 2989.9487
+            },
+            "geometry": 
+            {
+                "type": "LineString",
+                "coordinates": 
+                [
+                    [
+                        120.645549625,
+                        24.1811082868
+                    ],
+                    [
+                        120.645902939,
+                        24.181113743
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": 
+            {
+                "ref": 32,
+                "x1": 12064540.5741,
+                "y1": 2418071.17067,
+                "x2": 12064556.532,
+                "y2": 2418071.66979,
+                "angular_connectivity": 1.0065501,
+                "axial_line_ref": -1,
+                "connectivity": 2,
+                "segment_length": 15.965704,
+                "t1024_choice": 0,
+                "t1024_choice_seg": 36496.184,
+                "t1024_integration": 25.831905,
+                "t1024_integration_seg": 1160.3853,
+                "t1024_node_count": 67,
+                "t1024_total_depth": 173.77734,
+                "t1024_total_depth_seg": 7704.1597,
+                "t1024_total_segment_length": 2989.9487
+            },
+            "geometry": 
+            {
+                "type": "LineString",
+                "coordinates": 
+                [
+                    [
+                        120.645405741,
+                        24.1807117067
+                    ],
+                    [
+                        120.64556532,
+                        24.1807166979
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": 
+            {
+                "ref": 33,
+                "x1": 12064556.532,
+                "y1": 2418071.66979,
+                "x2": 12064635.7688,
+                "y2": 2418074.26685,
+                "angular_connectivity": 2.0071239,
+                "axial_line_ref": -1,
+                "connectivity": 4,
+                "segment_length": 79.27935,
+                "t1024_choice": 123,
+                "t1024_choice_seg": 280576.09,
+                "t1024_integration": 25.8505,
+                "t1024_integration_seg": 1161.189,
+                "t1024_node_count": 67,
+                "t1024_total_depth": 173.65234,
+                "t1024_total_depth_seg": 7698.8276,
+                "t1024_total_segment_length": 2989.9487
+            },
+            "geometry": 
+            {
+                "type": "LineString",
+                "coordinates": 
+                [
+                    [
+                        120.64556532,
+                        24.1807166979
+                    ],
+                    [
+                        120.646357688,
+                        24.1807426685
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": 
+            {
+                "ref": 34,
+                "x1": 12064635.7688,
+                "y1": 2418074.26685,
+                "x2": 12064640.8405,
+                "y2": 2418074.47291,
+                "angular_connectivity": 2.8656538,
+                "axial_line_ref": -1,
+                "connectivity": 4,
+                "segment_length": 5.0758843,
+                "t1024_choice": 197,
+                "t1024_choice_seg": 402577.25,
+                "t1024_integration": 25.86854,
+                "t1024_integration_seg": 1162.0347,
+                "t1024_node_count": 67,
+                "t1024_total_depth": 173.53125,
+                "t1024_total_depth_seg": 7693.2241,
+                "t1024_total_segment_length": 2989.9487
+            },
+            "geometry": 
+            {
+                "type": "LineString",
+                "coordinates": 
+                [
+                    [
+                        120.646357688,
+                        24.1807426685
+                    ],
+                    [
+                        120.646408405,
+                        24.1807447291
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": 
+            {
+                "ref": 35,
+                "x1": 12064511.9448,
+                "y1": 2418047.05436,
+                "x2": 12064568.3795,
+                "y2": 2418048.58001,
+                "angular_connectivity": 3.0140309,
+                "axial_line_ref": -1,
+                "connectivity": 4,
+                "segment_length": 56.455318,
+                "t1024_choice": 27,
+                "t1024_choice_seg": 138083.64,
+                "t1024_integration": 36.663605,
+                "t1024_integration_seg": 1739.6519,
+                "t1024_node_count": 67,
+                "t1024_total_depth": 122.4375,
+                "t1024_total_depth_seg": 5138.8403,
+                "t1024_total_segment_length": 2989.9487
+            },
+            "geometry": 
+            {
+                "type": "LineString",
+                "coordinates": 
+                [
+                    [
+                        120.645119448,
+                        24.1804705436
+                    ],
+                    [
+                        120.645683795,
+                        24.1804858001
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": 
+            {
+                "ref": 36,
+                "x1": 12064568.3795,
+                "y1": 2418048.58001,
+                "x2": 12064643.065,
+                "y2": 2418051.55757,
+                "angular_connectivity": 3.0103576,
+                "axial_line_ref": -1,
+                "connectivity": 4,
+                "segment_length": 74.744827,
+                "t1024_choice": 86,
+                "t1024_choice_seg": 208093.28,
+                "t1024_integration": 36.640224,
+                "t1024_integration_seg": 1739.7534,
+                "t1024_node_count": 67,
+                "t1024_total_depth": 122.51562,
+                "t1024_total_depth_seg": 5138.5405,
+                "t1024_total_segment_length": 2989.9487
+            },
+            "geometry": 
+            {
+                "type": "LineString",
+                "coordinates": 
+                [
+                    [
+                        120.645683795,
+                        24.1804858001
+                    ],
+                    [
+                        120.64643065,
+                        24.1805155757
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": 
+            {
+                "ref": 37,
+                "x1": 12064569.7097,
+                "y1": 2417992.95744,
+                "x2": 12064644.3726,
+                "y2": 2417993.98911,
+                "angular_connectivity": 4.0009575,
+                "axial_line_ref": -1,
+                "connectivity": 4,
+                "segment_length": 74.670029,
+                "t1024_choice": 0,
+                "t1024_choice_seg": 148989.64,
+                "t1024_integration": 25.239595,
+                "t1024_integration_seg": 1193.5924,
+                "t1024_node_count": 67,
+                "t1024_total_depth": 177.85547,
+                "t1024_total_depth_seg": 7489.8208,
+                "t1024_total_segment_length": 2989.9487
+            },
+            "geometry": 
+            {
+                "type": "LineString",
+                "coordinates": 
+                [
+                    [
+                        120.645697097,
+                        24.1799295744
+                    ],
+                    [
+                        120.646443726,
+                        24.1799398911
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": 
+            {
+                "ref": 38,
+                "x1": 12064568.3795,
+                "y1": 2418048.58001,
+                "x2": 12064569.7097,
+                "y2": 2417992.95744,
+                "angular_connectivity": 2.9863703,
+                "axial_line_ref": -1,
+                "connectivity": 4,
+                "segment_length": 55.638474,
+                "t1024_choice": 68,
+                "t1024_choice_seg": 209396.66,
+                "t1024_integration": 26.367107,
+                "t1024_integration_seg": 1284.2484,
+                "t1024_node_count": 67,
+                "t1024_total_depth": 170.25,
+                "t1024_total_depth_seg": 6961.1094,
+                "t1024_total_segment_length": 2989.9487
+            },
+            "geometry": 
+            {
+                "type": "LineString",
+                "coordinates": 
+                [
+                    [
+                        120.645683795,
+                        24.1804858001
+                    ],
+                    [
+                        120.645697097,
+                        24.1799295744
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": 
+            {
+                "ref": 39,
+                "x1": 12064569.7097,
+                "y1": 2417992.95744,
+                "x2": 12064571.0712,
+                "y2": 2417939.39547,
+                "angular_connectivity": 2.0168593,
+                "axial_line_ref": -1,
+                "connectivity": 4,
+                "segment_length": 53.579269,
+                "t1024_choice": 143,
+                "t1024_choice_seg": 451300.97,
+                "t1024_integration": 26.362268,
+                "t1024_integration_seg": 1283.7551,
+                "t1024_node_count": 67,
+                "t1024_total_depth": 170.28125,
+                "t1024_total_depth_seg": 6963.7837,
+                "t1024_total_segment_length": 2989.9487
+            },
+            "geometry": 
+            {
+                "type": "LineString",
+                "coordinates": 
+                [
+                    [
+                        120.645697097,
+                        24.1799295744
+                    ],
+                    [
+                        120.645710712,
+                        24.1793939547
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": 
+            {
+                "ref": 40,
+                "x1": 12064574.0807,
+                "y1": 2417658.6505,
+                "x2": 12064601.3113,
+                "y2": 2417623.67762,
+                "angular_connectivity": 2.9848797,
+                "axial_line_ref": -1,
+                "connectivity": 4,
+                "segment_length": 44.323898,
+                "t1024_choice": 133,
+                "t1024_choice_seg": 319661.59,
+                "t1024_integration": 38.204254,
+                "t1024_integration_seg": 1746.6515,
+                "t1024_node_count": 67,
+                "t1024_total_depth": 117.5,
+                "t1024_total_depth_seg": 5118.2471,
+                "t1024_total_segment_length": 2989.9487
+            },
+            "geometry": 
+            {
+                "type": "LineString",
+                "coordinates": 
+                [
+                    [
+                        120.645740807,
+                        24.176586505
+                    ],
+                    [
+                        120.646013113,
+                        24.1762367762
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": 
+            {
+                "ref": 41,
+                "x1": 12064523.6711,
+                "y1": 2417691.80739,
+                "x2": 12064538.4106,
+                "y2": 2417702.10441,
+                "angular_connectivity": 4.0198984,
+                "axial_line_ref": -1,
+                "connectivity": 5,
+                "segment_length": 17.98003,
+                "t1024_choice": 23,
+                "t1024_choice_seg": 43570.023,
+                "t1024_integration": 26.846331,
+                "t1024_integration_seg": 1180.2635,
+                "t1024_node_count": 67,
+                "t1024_total_depth": 167.21094,
+                "t1024_total_depth_seg": 7574.4043,
+                "t1024_total_segment_length": 2989.9487
+            },
+            "geometry": 
+            {
+                "type": "LineString",
+                "coordinates": 
+                [
+                    [
+                        120.645236711,
+                        24.1769180739
+                    ],
+                    [
+                        120.645384106,
+                        24.1770210441
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": 
+            {
+                "ref": 42,
+                "x1": 12064538.4106,
+                "y1": 2417702.10441,
+                "x2": 12064567.2008,
+                "y2": 2417721.28163,
+                "angular_connectivity": 2.0190945,
+                "axial_line_ref": -1,
+                "connectivity": 3,
+                "segment_length": 34.592506,
+                "t1024_choice": 0,
+                "t1024_choice_seg": 82461.742,
+                "t1024_integration": 26.723967,
+                "t1024_integration_seg": 1176.9414,
+                "t1024_node_count": 67,
+                "t1024_total_depth": 167.97656,
+                "t1024_total_depth_seg": 7595.7847,
+                "t1024_total_segment_length": 2989.9487
+            },
+            "geometry": 
+            {
+                "type": "LineString",
+                "coordinates": 
+                [
+                    [
+                        120.645384106,
+                        24.1770210441
+                    ],
+                    [
+                        120.645672008,
+                        24.1772128163
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": 
+            {
+                "ref": 43,
+                "x1": 12064522.2707,
+                "y1": 2417721.66601,
+                "x2": 12064538.4106,
+                "y2": 2417702.10441,
+                "angular_connectivity": 4.003921,
+                "axial_line_ref": -1,
+                "connectivity": 5,
+                "segment_length": 25.360453,
+                "t1024_choice": 422,
+                "t1024_choice_seg": 882428.88,
+                "t1024_integration": 38.523148,
+                "t1024_integration_seg": 1761.7578,
+                "t1024_node_count": 67,
+                "t1024_total_depth": 116.52734,
+                "t1024_total_depth_seg": 5074.3599,
+                "t1024_total_segment_length": 2989.9487
+            },
+            "geometry": 
+            {
+                "type": "LineString",
+                "coordinates": 
+                [
+                    [
+                        120.645222707,
+                        24.1772166601
+                    ],
+                    [
+                        120.645384106,
+                        24.1770210441
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": 
+            {
+                "ref": 44,
+                "x1": 12064528.081,
+                "y1": 2417661.80224,
+                "x2": 12064556.1521,
+                "y2": 2417680.94097,
+                "angular_connectivity": 4.0552115,
+                "axial_line_ref": -1,
+                "connectivity": 5,
+                "segment_length": 33.974663,
+                "t1024_choice": 265,
+                "t1024_choice_seg": 436907.53,
+                "t1024_integration": 27.318594,
+                "t1024_integration_seg": 1201.7185,
+                "t1024_node_count": 67,
+                "t1024_total_depth": 164.32031,
+                "t1024_total_depth_seg": 7439.1748,
+                "t1024_total_segment_length": 2989.9487
+            },
+            "geometry": 
+            {
+                "type": "LineString",
+                "coordinates": 
+                [
+                    [
+                        120.64528081,
+                        24.1766180224
+                    ],
+                    [
+                        120.645561521,
+                        24.1768094097
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": 
+            {
+                "ref": 45,
+                "x1": 12064556.1521,
+                "y1": 2417680.94097,
+                "x2": 12064574.0807,
+                "y2": 2417658.6505,
+                "angular_connectivity": 3.1136937,
+                "axial_line_ref": -1,
+                "connectivity": 5,
+                "segment_length": 28.60594,
+                "t1024_choice": 252,
+                "t1024_choice_seg": 624696.75,
+                "t1024_integration": 38.261494,
+                "t1024_integration_seg": 1748.8646,
+                "t1024_node_count": 67,
+                "t1024_total_depth": 117.32422,
+                "t1024_total_depth_seg": 5111.77,
+                "t1024_total_segment_length": 2989.9487
+            },
+            "geometry": 
+            {
+                "type": "LineString",
+                "coordinates": 
+                [
+                    [
+                        120.645561521,
+                        24.1768094097
+                    ],
+                    [
+                        120.645740807,
+                        24.176586505
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": 
+            {
+                "ref": 46,
+                "x1": 12064538.4106,
+                "y1": 2417702.10441,
+                "x2": 12064556.1521,
+                "y2": 2417680.94097,
+                "angular_connectivity": 4.042881,
+                "axial_line_ref": -1,
+                "connectivity": 6,
+                "segment_length": 27.616156,
+                "t1024_choice": 305,
+                "t1024_choice_seg": 688119,
+                "t1024_integration": 38.478001,
+                "t1024_integration_seg": 1758.5688,
+                "t1024_node_count": 67,
+                "t1024_total_depth": 116.66406,
+                "t1024_total_depth_seg": 5083.562,
+                "t1024_total_segment_length": 2989.9487
+            },
+            "geometry": 
+            {
+                "type": "LineString",
+                "coordinates": 
+                [
+                    [
+                        120.645384106,
+                        24.1770210441
+                    ],
+                    [
+                        120.645561521,
+                        24.1768094097
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": 
+            {
+                "ref": 47,
+                "x1": 12064518.0391,
+                "y1": 2417882.1498,
+                "x2": 12064572.3631,
+                "y2": 2417883.16465,
+                "angular_connectivity": 3.9940889,
+                "axial_line_ref": -1,
+                "connectivity": 5,
+                "segment_length": 54.333477,
+                "t1024_choice": 249,
+                "t1024_choice_seg": 791046.38,
+                "t1024_integration": 36.835182,
+                "t1024_integration_seg": 1748.5839,
+                "t1024_node_count": 67,
+                "t1024_total_depth": 121.86719,
+                "t1024_total_depth_seg": 5112.5908,
+                "t1024_total_segment_length": 2989.9487
+            },
+            "geometry": 
+            {
+                "type": "LineString",
+                "coordinates": 
+                [
+                    [
+                        120.645180391,
+                        24.178821498
+                    ],
+                    [
+                        120.645723631,
+                        24.1788316465
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": 
+            {
+                "ref": 48,
+                "x1": 12064572.3631,
+                "y1": 2417883.16465,
+                "x2": 12064646.8582,
+                "y2": 2417884.55631,
+                "angular_connectivity": 3.9842784,
+                "axial_line_ref": -1,
+                "connectivity": 5,
+                "segment_length": 74.508095,
+                "t1024_choice": 129,
+                "t1024_choice_seg": 434042.78,
+                "t1024_integration": 36.846992,
+                "t1024_integration_seg": 1749.3427,
+                "t1024_node_count": 67,
+                "t1024_total_depth": 121.82812,
+                "t1024_total_depth_seg": 5110.373,
+                "t1024_total_segment_length": 2989.9487
+            },
+            "geometry": 
+            {
+                "type": "LineString",
+                "coordinates": 
+                [
+                    [
+                        120.645723631,
+                        24.1788316465
+                    ],
+                    [
+                        120.646468582,
+                        24.1788455631
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": 
+            {
+                "ref": 49,
+                "x1": 12064571.0712,
+                "y1": 2417939.39547,
+                "x2": 12064572.3631,
+                "y2": 2417883.16465,
+                "angular_connectivity": 2.9956586,
+                "axial_line_ref": -1,
+                "connectivity": 5,
+                "segment_length": 56.245659,
+                "t1024_choice": 258,
+                "t1024_choice_seg": 715837.44,
+                "t1024_integration": 26.364687,
+                "t1024_integration_seg": 1283.881,
+                "t1024_node_count": 67,
+                "t1024_total_depth": 170.26562,
+                "t1024_total_depth_seg": 6963.1016,
+                "t1024_total_segment_length": 2989.9487
+            },
+            "geometry": 
+            {
+                "type": "LineString",
+                "coordinates": 
+                [
+                    [
+                        120.645710712,
+                        24.1793939547
+                    ],
+                    [
+                        120.645723631,
+                        24.1788316465
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": 
+            {
+                "ref": 50,
+                "x1": 12064660.6684,
+                "y1": 2417665.62909,
+                "x2": 12064662.1094,
+                "y2": 2417675.93548,
+                "angular_connectivity": 0.45389539,
+                "axial_line_ref": -1,
+                "connectivity": 2,
+                "segment_length": 10.40664,
+                "t1024_choice": 94,
+                "t1024_choice_seg": 250203.78,
+                "t1024_integration": 26.279076,
+                "t1024_integration_seg": 1163.6265,
+                "t1024_node_count": 67,
+                "t1024_total_depth": 170.82031,
+                "t1024_total_depth_seg": 7682.7007,
+                "t1024_total_segment_length": 2989.9487
+            },
+            "geometry": 
+            {
+                "type": "LineString",
+                "coordinates": 
+                [
+                    [
+                        120.646606684,
+                        24.1766562909
+                    ],
+                    [
+                        120.646621094,
+                        24.1767593548
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": 
+            {
+                "ref": 51,
+                "x1": 12064658.4633,
+                "y1": 2417802.23425,
+                "x2": 12064662.1094,
+                "y2": 2417675.93548,
+                "angular_connectivity": 1.0919658,
+                "axial_line_ref": -1,
+                "connectivity": 2,
+                "segment_length": 126.35139,
+                "t1024_choice": 78,
+                "t1024_choice_seg": 221438.22,
+                "t1024_integration": 25.871452,
+                "t1024_integration_seg": 1148.7954,
+                "t1024_node_count": 67,
+                "t1024_total_depth": 173.51172,
+                "t1024_total_depth_seg": 7781.8843,
+                "t1024_total_segment_length": 2989.9487
+            },
+            "geometry": 
+            {
+                "type": "LineString",
+                "coordinates": 
+                [
+                    [
+                        120.646584633,
+                        24.1780223425
+                    ],
+                    [
+                        120.646621094,
+                        24.1767593548
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": 
+            {
+                "ref": 52,
+                "x1": 12064556.1521,
+                "y1": 2417680.94097,
+                "x2": 12064585.4384,
+                "y2": 2417701.64895,
+                "angular_connectivity": 3.0441637,
+                "axial_line_ref": -1,
+                "connectivity": 4,
+                "segment_length": 35.86792,
+                "t1024_choice": 204,
+                "t1024_choice_seg": 325623.16,
+                "t1024_integration": 27.188681,
+                "t1024_integration_seg": 1194.9874,
+                "t1024_node_count": 67,
+                "t1024_total_depth": 165.10547,
+                "t1024_total_depth_seg": 7481.0771,
+                "t1024_total_segment_length": 2989.9487
+            },
+            "geometry": 
+            {
+                "type": "LineString",
+                "coordinates": 
+                [
+                    [
+                        120.645561521,
+                        24.1768094097
+                    ],
+                    [
+                        120.645854384,
+                        24.1770164895
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": 
+            {
+                "ref": 53,
+                "x1": 12064581.8821,
+                "y1": 2417705.9748,
+                "x2": 12064585.4384,
+                "y2": 2417701.64895,
+                "angular_connectivity": 1.8995302,
+                "axial_line_ref": -1,
+                "connectivity": 2,
+                "segment_length": 5.6000223,
+                "t1024_choice": 104,
+                "t1024_choice_seg": 231372.83,
+                "t1024_integration": 19.427973,
+                "t1024_integration_seg": 851.19983,
+                "t1024_node_count": 67,
+                "t1024_total_depth": 231.05859,
+                "t1024_total_depth_seg": 10502.579,
+                "t1024_total_segment_length": 2989.9487
+            },
+            "geometry": 
+            {
+                "type": "LineString",
+                "coordinates": 
+                [
+                    [
+                        120.645818821,
+                        24.177059748
+                    ],
+                    [
+                        120.645854384,
+                        24.1770164895
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": 
+            {
+                "ref": 54,
+                "x1": 12064581.8821,
+                "y1": 2417705.9748,
+                "x2": 12064609.968,
+                "y2": 2417742.74444,
+                "angular_connectivity": 0.85330659,
+                "axial_line_ref": -1,
+                "connectivity": 1,
+                "segment_length": 46.269043,
+                "t1024_choice": 0,
+                "t1024_choice_seg": 109221.98,
+                "t1024_integration": 15.673326,
+                "t1024_integration_seg": 689.27209,
+                "t1024_node_count": 67,
+                "t1024_total_depth": 286.41016,
+                "t1024_total_depth_seg": 12969.905,
+                "t1024_total_segment_length": 2989.9487
+            },
+            "geometry": 
+            {
+                "type": "LineString",
+                "coordinates": 
+                [
+                    [
+                        120.645818821,
+                        24.177059748
+                    ],
+                    [
+                        120.64609968,
+                        24.1774274444
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": 
+            {
+                "ref": 55,
+                "x1": 12064601.3113,
+                "y1": 2417623.67762,
+                "x2": 12064655.0763,
+                "y2": 2417658.77176,
+                "angular_connectivity": 1.2297659,
+                "axial_line_ref": -1,
+                "connectivity": 3,
+                "segment_length": 64.204933,
+                "t1024_choice": 134,
+                "t1024_choice_seg": 293984.44,
+                "t1024_integration": 29.492723,
+                "t1024_integration_seg": 1307.5616,
+                "t1024_node_count": 67,
+                "t1024_total_depth": 152.20703,
+                "t1024_total_depth_seg": 6836.9956,
+                "t1024_total_segment_length": 2989.9487
+            },
+            "geometry": 
+            {
+                "type": "LineString",
+                "coordinates": 
+                [
+                    [
+                        120.646013113,
+                        24.1762367762
+                    ],
+                    [
+                        120.646550763,
+                        24.1765877176
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": 
+            {
+                "ref": 56,
+                "x1": 12064655.0763,
+                "y1": 2417658.77176,
+                "x2": 12064660.6684,
+                "y2": 2417665.62909,
+                "angular_connectivity": 0.54341054,
+                "axial_line_ref": -1,
+                "connectivity": 2,
+                "segment_length": 8.8484211,
+                "t1024_choice": 116,
+                "t1024_choice_seg": 260473.17,
+                "t1024_integration": 28.294571,
+                "t1024_integration_seg": 1252.2485,
+                "t1024_node_count": 67,
+                "t1024_total_depth": 158.65234,
+                "t1024_total_depth_seg": 7138.9927,
+                "t1024_total_segment_length": 2989.9487
+            },
+            "geometry": 
+            {
+                "type": "LineString",
+                "coordinates": 
+                [
+                    [
+                        120.646550763,
+                        24.1765877176
+                    ],
+                    [
+                        120.646606684,
+                        24.1766562909
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": 
+            {
+                "ref": 57,
+                "x1": 12064646.8582,
+                "y1": 2417884.55631,
+                "x2": 12064650.4257,
+                "y2": 2417802.18969,
+                "angular_connectivity": 1.973407,
+                "axial_line_ref": -1,
+                "connectivity": 3,
+                "segment_length": 82.44384,
+                "t1024_choice": 108,
+                "t1024_choice_seg": 266944.72,
+                "t1024_integration": 36.003132,
+                "t1024_integration_seg": 1671.4209,
+                "t1024_node_count": 67,
+                "t1024_total_depth": 124.68359,
+                "t1024_total_depth_seg": 5348.6191,
+                "t1024_total_segment_length": 2989.9487
+            },
+            "geometry": 
+            {
+                "type": "LineString",
+                "coordinates": 
+                [
+                    [
+                        120.646468582,
+                        24.1788455631
+                    ],
+                    [
+                        120.646504257,
+                        24.1780218969
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": 
+            {
+                "ref": 58,
+                "x1": 12064650.4257,
+                "y1": 2417802.18969,
+                "x2": 12064658.4633,
+                "y2": 2417802.23425,
+                "angular_connectivity": 1.961129,
+                "axial_line_ref": -1,
+                "connectivity": 2,
+                "segment_length": 8.0377235,
+                "t1024_choice": 81,
+                "t1024_choice_seg": 201498.19,
+                "t1024_integration": 26.829407,
+                "t1024_integration_seg": 1203.6674,
+                "t1024_node_count": 67,
+                "t1024_total_depth": 167.31641,
+                "t1024_total_depth_seg": 7427.1299,
+                "t1024_total_segment_length": 2989.9487
+            },
+            "geometry": 
+            {
+                "type": "LineString",
+                "coordinates": 
+                [
+                    [
+                        120.646504257,
+                        24.1780218969
+                    ],
+                    [
+                        120.646584633,
+                        24.1780223425
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": 
+            {
+                "ref": 59,
+                "x1": 12064632.2562,
+                "y1": 2418189.22172,
+                "x2": 12064637.9493,
+                "y2": 2418189.35833,
+                "angular_connectivity": 2.0434384,
+                "axial_line_ref": -1,
+                "connectivity": 3,
+                "segment_length": 5.6947389,
+                "t1024_choice": 284,
+                "t1024_choice_seg": 467526.09,
+                "t1024_integration": 36.478558,
+                "t1024_integration_seg": 1641.3988,
+                "t1024_node_count": 67,
+                "t1024_total_depth": 123.05859,
+                "t1024_total_depth_seg": 5446.4482,
+                "t1024_total_segment_length": 2989.9487
+            },
+            "geometry": 
+            {
+                "type": "LineString",
+                "coordinates": 
+                [
+                    [
+                        120.646322562,
+                        24.1818922172
+                    ],
+                    [
+                        120.646379493,
+                        24.1818935833
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": 
+            {
+                "ref": 60,
+                "x1": 12064637.9493,
+                "y1": 2418189.35833,
+                "x2": 12064639.5528,
+                "y2": 2418129.75646,
+                "angular_connectivity": 2.0071857,
+                "axial_line_ref": -1,
+                "connectivity": 3,
+                "segment_length": 59.623436,
+                "t1024_choice": 258,
+                "t1024_choice_seg": 427364.88,
+                "t1024_integration": 35.434738,
+                "t1024_integration_seg": 1613.8634,
+                "t1024_node_count": 67,
+                "t1024_total_depth": 126.68359,
+                "t1024_total_depth_seg": 5539.3745,
+                "t1024_total_segment_length": 2989.9487
+            },
+            "geometry": 
+            {
+                "type": "LineString",
+                "coordinates": 
+                [
+                    [
+                        120.646379493,
+                        24.1818935833
+                    ],
+                    [
+                        120.646395528,
+                        24.1812975646
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": 
+            {
+                "ref": 61,
+                "x1": 12064633.8509,
+                "y1": 2418129.67935,
+                "x2": 12064634.1674,
+                "y2": 2418112.45593,
+                "angular_connectivity": 3.0368557,
+                "axial_line_ref": -1,
+                "connectivity": 5,
+                "segment_length": 17.226328,
+                "t1024_choice": 22,
+                "t1024_choice_seg": 79659.695,
+                "t1024_integration": 27.975657,
+                "t1024_integration_seg": 1200.0243,
+                "t1024_node_count": 67,
+                "t1024_total_depth": 160.46094,
+                "t1024_total_depth_seg": 7449.6768,
+                "t1024_total_segment_length": 2989.9487
+            },
+            "geometry": 
+            {
+                "type": "LineString",
+                "coordinates": 
+                [
+                    [
+                        120.646338509,
+                        24.1812967935
+                    ],
+                    [
+                        120.646341674,
+                        24.1811245593
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": 
+            {
+                "ref": 62,
+                "x1": 12064634.1674,
+                "y1": 2418112.45593,
+                "x2": 12064635.7688,
+                "y2": 2418074.26685,
+                "angular_connectivity": 4.0065403,
+                "axial_line_ref": -1,
+                "connectivity": 5,
+                "segment_length": 38.222641,
+                "t1024_choice": 50,
+                "t1024_choice_seg": 157302.28,
+                "t1024_integration": 28.063101,
+                "t1024_integration_seg": 1203.8484,
+                "t1024_node_count": 67,
+                "t1024_total_depth": 159.96094,
+                "t1024_total_depth_seg": 7426.0127,
+                "t1024_total_segment_length": 2989.9487
+            },
+            "geometry": 
+            {
+                "type": "LineString",
+                "coordinates": 
+                [
+                    [
+                        120.646341674,
+                        24.1811245593
+                    ],
+                    [
+                        120.646357688,
+                        24.1807426685
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": 
+            {
+                "ref": 63,
+                "x1": 12064590.2939,
+                "y1": 2418111.3743,
+                "x2": 12064634.1674,
+                "y2": 2418112.45593,
+                "angular_connectivity": 2.9904361,
+                "axial_line_ref": -1,
+                "connectivity": 5,
+                "segment_length": 43.886829,
+                "t1024_choice": 201,
+                "t1024_choice_seg": 331391.06,
+                "t1024_integration": 38.884212,
+                "t1024_integration_seg": 1696.3817,
+                "t1024_node_count": 67,
+                "t1024_total_depth": 115.44531,
+                "t1024_total_depth_seg": 5269.9185,
+                "t1024_total_segment_length": 2989.9487
+            },
+            "geometry": 
+            {
+                "type": "LineString",
+                "coordinates": 
+                [
+                    [
+                        120.645902939,
+                        24.181113743
+                    ],
+                    [
+                        120.646341674,
+                        24.1811245593
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": 
+            {
+                "ref": 64,
+                "x1": 12064634.1674,
+                "y1": 2418112.45593,
+                "x2": 12064639.9971,
+                "y2": 2418112.72284,
+                "angular_connectivity": 4.0309849,
+                "axial_line_ref": -1,
+                "connectivity": 5,
+                "segment_length": 5.8358068,
+                "t1024_choice": 72,
+                "t1024_choice_seg": 125674.98,
+                "t1024_integration": 38.723053,
+                "t1024_integration_seg": 1688.7958,
+                "t1024_node_count": 67,
+                "t1024_total_depth": 115.92578,
+                "t1024_total_depth_seg": 5293.5908,
+                "t1024_total_segment_length": 2989.9487
+            },
+            "geometry": 
+            {
+                "type": "LineString",
+                "coordinates": 
+                [
+                    [
+                        120.646341674,
+                        24.1811245593
+                    ],
+                    [
+                        120.646399971,
+                        24.1811272284
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": 
+            {
+                "ref": 65,
+                "x1": 12064572.3631,
+                "y1": 2417883.16465,
+                "x2": 12064574.095,
+                "y2": 2417791.30386,
+                "angular_connectivity": 2.9953222,
+                "axial_line_ref": -1,
+                "connectivity": 4,
+                "segment_length": 91.877113,
+                "t1024_choice": 194,
+                "t1024_choice_seg": 507847.94,
+                "t1024_integration": 26.371344,
+                "t1024_integration_seg": 1284.2466,
+                "t1024_node_count": 67,
+                "t1024_total_depth": 170.22266,
+                "t1024_total_depth_seg": 6961.1191,
+                "t1024_total_segment_length": 2989.9487
+            },
+            "geometry": 
+            {
+                "type": "LineString",
+                "coordinates": 
+                [
+                    [
+                        120.645723631,
+                        24.1788316465
+                    ],
+                    [
+                        120.64574095,
+                        24.1779130386
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": 
+            {
+                "ref": 66,
+                "x1": 12064520.216,
+                "y1": 2417789.6698,
+                "x2": 12064574.095,
+                "y2": 2417791.30386,
+                "angular_connectivity": 3.0025096,
+                "axial_line_ref": -1,
+                "connectivity": 3,
+                "segment_length": 53.903774,
+                "t1024_choice": 217,
+                "t1024_choice_seg": 527589.12,
+                "t1024_integration": 30.155186,
+                "t1024_integration_seg": 1430.3418,
+                "t1024_node_count": 67,
+                "t1024_total_depth": 148.86328,
+                "t1024_total_depth_seg": 6250.1099,
+                "t1024_total_segment_length": 2989.9487
+            },
+            "geometry": 
+            {
+                "type": "LineString",
+                "coordinates": 
+                [
+                    [
+                        120.64520216,
+                        24.177896698
+                    ],
+                    [
+                        120.64574095,
+                        24.1779130386
+                    ]
+                ]
+            }
+        }
+    ]
+}
